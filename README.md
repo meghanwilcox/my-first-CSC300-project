@@ -1,2 +1,2 @@
 # my-first-CSC300-project
-intro to git/github
+This is my first CSC 300 project. 
